@@ -25,5 +25,8 @@ Smart classroom platform:
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn] (www.linkedin.com/in/hiral-dhakoliya-438453359).  
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/hiral-dhakoliya-438453359)
+- 🌐 [Portfolio Website](https://hiraldhakoliya.github.io/Hiral-Portfolio)
+- 📧 Email: hiraldhakoliya@gmail.com
+- 🧑‍💻 [GitHub](https://github.com/HiralDhakoliya)
+- 📺 [YouTube](https://youtube.com/@hiraldhakoliya?si=0dSdnxnYfq9DRBS5)
